@@ -7,3 +7,9 @@
   width: 30%;
   height: 25%;
 }
+
+#logo {
+  width: 20%;
+  height: 20%;
+  border-radius: 5%;
+}
