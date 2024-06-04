@@ -12,7 +12,7 @@ export default () => (
     <a href="https://david-heynen.itch.io/2d-platform-prototype" target="_blank">2D Survival Game</a>
     <br></br>
     <img id="survival" src={Survivalist} alt="Thumbnail of the 2D survival game"></img>
-    <p>This was the first game I made on my own over the summer. I spent about a month teaching myself on how to use Unity by watching various tutorial videos and practice along. Then I spent about another month creating my own game. My goal was to make all the components that I needed to ensure that the game is playable.</p>
+    <p>This was the first game I made on my own over the summer. I spent about a month teaching myself on how to use Unity by watching various tutorial videos and practice along. Afterward, I spent about another month creating my own game. Throughout the process, I faced many challenges such as creating collider behaviors for each objects when they collide with each other. In order to solve my problems, I did more research and understanding more concepts about game development. My goal at the end of the month was to make sure all the components that I needed for the game worked and that the game is playable.</p>
     <br></br>
     <br></br>
     <a href="https://calvinroomfinder.web.app" target="_blank">Calvin Room Finder</a>
