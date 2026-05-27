@@ -9,10 +9,11 @@ export default () => (
     <h1>Projects</h1>
     <br></br>
     <br></br>
-    <a href="https://david-heynen.itch.io/2d-platform-prototype" target="_blank">2D Survival Game</a>
+    <a href="https://david-heynen.itch.io/2d-platform-prototype" target="_blank">2D Platform Prototype — Unity Engine, C#</a>
     <br></br>
     <img id="survival" src={Survivalist} alt="Thumbnail of the 2D survival game"></img>
-    <p>This was the first game I made on my own over the summer. I spent about a month teaching myself on how to use Unity by watching various tutorial videos and practice along. Afterward, I spent about another month creating my own game. Throughout the process, I faced many challenges such as creating collider behaviors for each objects when they collide with each other. In order to solve my problems, I did more research and understanding more concepts about game development. My goal at the end of the month was to make sure all the components that I needed for the game worked and that the game is playable.</p>
+    <p>• Built a playable 2D survival/platform prototype while learning Unity and C#.</p>
+    <p>• Implemented player movement, collision behavior, object interactions, animations, and basic gameplay flow.</p>
     <br></br>
     <br></br>
     <a href="https://calvinroomfinder.web.app" target="_blank">Calvin Room Finder</a>
