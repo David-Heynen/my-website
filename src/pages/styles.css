@@ -13,3 +13,18 @@
   height: 20%;
   border-radius: 5%;
 }
+
+#small-font {
+  font-size: 14px;
+}
+
+.same-line {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.same-line h5,
+.same-line * {
+  margin: 0px;
+}

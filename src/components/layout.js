@@ -28,10 +28,12 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
-          <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <footer className='bottom-footer'>
+            © {new Date().getFullYear()}, David Heynen |
+            Contact: {" "}
+            <a href="mailto:heynendavid@gmail.com">Email</a> |
+            LinkedIn: {" "}
+            <a href="https://www.linkedin.com/in/david-heynen">Link</a>
           </footer>
         </div>
       </>
