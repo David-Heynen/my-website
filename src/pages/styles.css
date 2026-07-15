@@ -1,17 +1,21 @@
 #resume {
+  display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 
 #survival {
+  display: block;
   width: 30%;
-  height: 25%;
+  height: auto;
 }
 
 #logo {
+  display: block;
   width: 20%;
-  height: 20%;
-  border-radius: 5%;
+  max-width: 160px;
+  height: auto;
+  border-radius: 10%;
 }
 
 #small-font {
@@ -21,10 +25,23 @@
 .same-line {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 6px;
 }
 
-.same-line h5,
-.same-line * {
-  margin: 0px;
+.same-line > * {
+  margin: 0;
+}
+
+section {
+  margin-bottom: 4rem;
+}
+
+.project-video {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 5%;
 }
