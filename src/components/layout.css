@@ -1,9 +1,6 @@
 * {
+  box-sizing: border-box;
   margin: 0;
-}
-
-* + * {
-  margin-top: 1rem;
 }
 
 html,
@@ -11,19 +8,32 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 18px;
-  margin-top: 0;
 }
 
-body > div {
+body {
+  margin: 0;
+  padding-bottom: 70px;
+}
+
+/* General vertical spacing for normal page content */
+main > * + *,
+section > * + * {
+  margin-top: 1rem;
+}
+
+/* Prevent flex-row elements from receiving unwanted top margins */
+.same-line > * {
   margin-top: 0;
 }
 
 .bottom-footer {
   position: fixed;
+  right: 0;
   bottom: 0;
   left: 0;
   width: 100%;
-  background: white;
   padding: 12px;
+  background: white;
   text-align: left;
+  z-index: 100;
 }
