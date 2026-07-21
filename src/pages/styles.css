@@ -40,7 +40,7 @@ section {
 .project-video {
   display: block;
   width: 100%;
-  max-width: 350px;
+  max-width: 300px;
   height: auto;
   margin: 1.5rem auto;
   border-radius: 5%;
