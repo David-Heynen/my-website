@@ -20,7 +20,7 @@ const SpaceShooter = () => (
     <p>
       This project is a 2D arcade-style roguelike space shooter inspired by classic Space Invaders gameplay. The player moves and shoots while surviving waves of enemies, choosing upgrades, and fighting bosses with different attack patterns and phases.
 
-      Although the project is still in development, it includes several gameplay systems that demonstrate my experience with unity and c#.
+      Although the project is still in development, it includes several gameplay systems that demonstrate my experience with Unity and C#.
     </p>
 
     <div>
@@ -34,7 +34,7 @@ const SpaceShooter = () => (
         <li>Implemented upgrade synergies such as multi-shot, pierce, rail gun, split shot, and fire-rate modifiers.</li>
         <li>Created enemy role systems, including shield nodes, buffers, and spawners.</li>
         <li>Developed boss phase logic with changing attacks and behaviors.</li>
-        <li>Used object pooling for projectiles and enmeies to improve runtime performance.</li>
+        <li>Used object pooling for projectiles and enemies to improve runtime performance.</li>
         <li>Built systems for run progression, upgrade rarity, and replayability.</li>
       </ul>
     </div>
@@ -47,7 +47,7 @@ const SpaceShooter = () => (
         <li>Improving upgrade balance and synergy progression.</li>
         <li>Adding more boss behaviors and phase transitions.</li>
         <li>Polishing UI, feedback, and player experience.</li>
-        <li>Continue to organize and improve the codebase.</li>
+        <li>Continuing to organize and improve the codebase.</li>
       </ul>
     </div>
 
