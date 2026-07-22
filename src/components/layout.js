@@ -31,7 +31,7 @@ const Layout = ({ children }) => (
           <footer className='bottom-footer'>
             © {new Date().getFullYear()}, David Heynen |
             Contact: {" "}
-            <a href="mailto:heynendavid@gmail.com">Email</a> |
+            <a href="mailto:heynendavid@gmail.com">heynendavid@gmail.com</a> |
             LinkedIn: {" "}
             <a href="https://www.linkedin.com/in/david-heynen">Link</a>
           </footer>

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import NavLink from './nav-link';
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
   <header
     style={{
       background: `rebeccapurple`,
@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
           textDecoration: `none`
         }}
       >
-        {siteTitle}
+        Home
       </Link>
       <NavLink to="/resume">Resume</NavLink>
       <NavLink to="/projects">Projects</NavLink>
