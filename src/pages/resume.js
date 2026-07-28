@@ -26,7 +26,7 @@ const ResumePage = () => (
     </ul>
 
     <div>
-      <a href="../static/David Resume.pdf" download>
+      <a href="/David Resume.pdf" download>
         Download resume
       </a>
     </div>
