@@ -7,9 +7,9 @@ import Survival from "./Survival";
 
 const ProjectsPage = () => (
   <Layout>
+    <CalvinRoomFinder></CalvinRoomFinder>
     <WordBombardment></WordBombardment>
     <SpaceShooter></SpaceShooter>
-    <CalvinRoomFinder></CalvinRoomFinder>
     <Survival></Survival>
   </Layout>
 );

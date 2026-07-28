@@ -9,18 +9,19 @@ const ResumePage = () => (
     </div>
 
     <p>
-      I am currently seeking an entry-level game development position focused
-      on Unity, C#, and gameplay programming.
+      I am currently seeking an entry-level software development position focused
+      on C#, JavaScript, UI implementation, debugging, and reliable user-focused applications.
     </p>
 
     <p>My resume highlights my experience with:</p>
 
     <ul>
-      <li>Unity game development</li>
-      <li>C# gameplay programming</li>
+      <li>Unity and C# development</li>
+      <li>JavaScript, TypeScript, Angular, and Ionic</li>
       <li>Mobile game development</li>
       <li>UI implementation</li>
-      <li>Web/app development with Ionic and Angular</li>
+      <li>Application logic and debugging</li>
+      <li>Mobile and web application development</li>
       <li>Technical problem-solving and software troubleshooting</li>
     </ul>
 
