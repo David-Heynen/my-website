@@ -6,7 +6,7 @@ import "./styles.css"
 const WordBombardment = () => (
   <section>
     <h3>Word Bombardment</h3>
-    <h5>Unity Engine, C# | iOS Mobile Game</h5>
+    <h5>Unity, C# | iOS Mobile Application / Game</h5>
 
     <div className="same-line" id="small-font">
       <h5>Status:</h5>
